@@ -1,11 +1,11 @@
-"""Runtime knobs: confidence threshold, MAX_ITERATIONS, research budget, retry/backoff, paths.
+import os
 
-ARGUS - Autonomous Risk & Global Unified Surveillance Agent (class build).
+# Investigation and Budget Limits
+MAX_INVESTIGATION_ITERATIONS = int(os.getenv("MAX_INVESTIGATION_ITERATIONS", 3))
+TOP_K_RETRIEVAL = int(os.getenv("TOP_K_RETRIEVAL", 5))
+TOOL_TIMEOUT_SECONDS = int(os.getenv("TOOL_TIMEOUT_SECONDS", 10))
 
-  Work-stream / owner : Orchestration (shared)
-  Blueprint reference : §17, §21
-
-TODO (tomorrow):
-  - Centralise every tunable number the blueprint says must be
-    configurable (gate thresholds, budgets).
-"""
+# Scoring Weights
+RISK_WEIGHT_IMPACT = 0.4
+RISK_WEIGHT_PROBABILITY = 0.4
+RISK_WEIGHT_URGENCY = 0.2
