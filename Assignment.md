@@ -18,13 +18,14 @@ This plan splits the class into **three groups**. The whole project is broken in
 4. Aditya Venkata Satyanarayana Mokkapati
 5. Radharapu Bharath Kumar
 6. Avinash Dupaguntla
-7. Kailas Kanade
+7. Raviraj Deshpande
+
 
 **Mission:** Give ARGUS its *knowledge*: the internal FAISS knowledge base (training data, ingestion, retrieval) and the external intelligence tool layer (news, government/regulatory, market and company tools).
 
 ### Group 2 — Agent Orchestrators (LangGraph + Agents)  ·  7 members
 
-1. Raviraj Deshpande
+1. Kailas Kanade
 2. Sheetal Deshpande
 3. Vishal Kailas Kharade
 4. Usama Mirkar
