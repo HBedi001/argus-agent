@@ -669,4 +669,3 @@ The minimum demo can:
 
 ---
 
-**Reference material for the project manager:** Use the supplied ARGUS use-case brief and the coach-provided ARGUS repository as preparation references. Keep the brief and this work-allocation plan private until the live exercise begins, as instructed.
