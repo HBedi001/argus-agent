@@ -1,6 +1,6 @@
-# ARGUS Agentic AI — Live Class Assignment Plan (3-Group Edition)
+# ARGUS Agentic AI — Live Class Assignment Plan (Divided into 3-Groups)
 
-The brief describes ARGUS (Autonomous Risk & Global Unified Surveillance Agent): an agent that combines external intelligence with internal company context, verifies evidence, identifies contradictions, scores risk/confidence, and recommends actions.
+ARGUS (Autonomous Risk & Global Unified Surveillance Agent): an agent that combines external intelligence with internal company context, verifies evidence, identifies contradictions, scores risk/confidence, and recommends actions.
 
 This plan splits the class into **three groups**. The whole project is broken into **16 sequenced Activities**, each made of clear Tasks. Every Activity and every repository file (using the folder layout from **Section 27 – Suggested Project Structure** of the ARGUS use-case brief) has exactly one owning group
 
