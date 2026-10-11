@@ -43,6 +43,7 @@ This plan splits the class into **three groups**. The whole project is broken in
 4. Shirish Suryakant Pathak
 5. Bhanupriya
 6. Jolly Shringi
+7. Lokesh
 
 **Mission:** Make ARGUS *safe, decision-ready and measurable*: project setup docs, guardrails and evidence gate, risk scoring and recommendations (with human-approval flag), the evaluator and final report, and the evaluation/regression framework.
 
