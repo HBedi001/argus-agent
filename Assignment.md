@@ -2,7 +2,7 @@
 
 The brief describes ARGUS (Autonomous Risk & Global Unified Surveillance Agent): an agent that combines external intelligence with internal company context, verifies evidence, identifies contradictions, scores risk/confidence, and recommends actions.
 
-This plan splits the class into **three groups**. The whole project is broken into **16 sequenced Activities**, each made of clear Tasks. Every Activity and every repository file (using the folder layout from **Section 27 – Suggested Project Structure** of the ARGUS use-case brief) has exactly one owning group, so the groups can work **independently and in parallel** once the shared contract is agreed.
+This plan splits the class into **three groups**. The whole project is broken into **16 sequenced Activities**, each made of clear Tasks. Every Activity and every repository file (using the folder layout from **Section 27 – Suggested Project Structure** of the ARGUS use-case brief) has exactly one owning group
 
 ---
 
@@ -46,7 +46,7 @@ This plan splits the class into **three groups**. The whole project is broken in
 
 **Mission:** Make ARGUS *safe, decision-ready and measurable*: project setup docs, guardrails and evidence gate, risk scoring and recommendations (with human-approval flag), the evaluator and final report, and the evaluation/regression framework.
 
-> **Note on grouping:** the split follows the class-list order so it is easy to read out. If you prefer a mixed or random shuffle, only the names above change — the Activities, file ownership and interfaces below stay exactly the same.
+> **Note on grouping:** the split follows the class-list order so it is easy to read out. 
 
 ### Workload balance at a glance
 
